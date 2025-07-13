@@ -13,7 +13,7 @@
                 <div class="row">
                     <div class="col-md-6 col-xl-3">
                         <div class="card">
-                            <div class="card-body">                                
+                            <div class="card-body">
                                 <div class="d-flex align-items-center gap-2 mb-3">
                                     <div class="avatar-md bg-primary bg-opacity-10 rounded">
                                         <iconify-icon icon="solar:users-group-two-rounded-bold-duotone" class="fs-32 text-primary avatar-title"></iconify-icon>
@@ -23,10 +23,10 @@
                                     </div>
                                 </div>
                                 <div class="d-flex align-items-center justify-content-between">
-                                    <p class="text-muted fw-medium fs-22 mb-0">+22.63k</p>            
+                                    <p class="text-muted fw-medium fs-22 mb-0">+22.63k</p>
                                     <div>
                                         <span class="badge text-success bg-success-subtle fs-12"><i class="bx bx-up-arrow-alt"></i>34.4%</span>
-                                    </div>        
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -34,7 +34,7 @@
 
                     <div class="col-md-6 col-xl-3">
                         <div class="card">
-                            <div class="card-body">                                
+                            <div class="card-body">
                                 <div class="d-flex align-items-center gap-2 mb-3">
                                     <div class="avatar-md bg-primary bg-opacity-10 rounded">
                                         <iconify-icon icon="solar:bill-list-bold-duotone" class="fs-32 text-primary avatar-title"></iconify-icon>
@@ -44,10 +44,10 @@
                                     </div>
                                 </div>
                                 <div class="d-flex align-items-center justify-content-between">
-                                    <p class="text-muted fw-medium fs-22 mb-0">$38,908.00</p>            
+                                    <p class="text-muted fw-medium fs-22 mb-0">$38,908.00</p>
                                     <div>
                                         <span class="badge text-success bg-success-subtle fs-12"><i class="bx bx-up-arrow-alt"></i>45.9%</span>
-                                    </div>        
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -109,12 +109,20 @@
                                                        <td> {{$customer->created_at}}</td>
                                                        <td> {{$customer->gender}} </td>
                                                        <td>
-                                                            <div class="d-flex gap-2">
-                                                                 <a href="#!" class="btn btn-light btn-sm"><iconify-icon icon="solar:eye-broken" class="align-middle fs-18"></iconify-icon></a>
-                                                                 <a href="#!" class="btn btn-soft-primary btn-sm" data-bs-toggle="modal" data-bs-target="#staticBackdrop"><iconify-icon icon="solar:pen-2-broken" class="align-middle fs-18"></iconify-icon></a>
-                                                                 <a href="#!" class="btn btn-soft-danger btn-sm"><iconify-icon icon="solar:trash-bin-minimalistic-2-broken" class="align-middle fs-18"></iconify-icon></a>
-                                                            </div>
-                                                       </td>
+                                                        <div class="d-flex gap-2">
+                                                            <a href="{{ route('customer.edit', $customer->id) }}" class="btn btn-soft-primary btn-sm">
+                                                                <iconify-icon icon="solar:pen-2-broken" class="align-middle fs-18"></iconify-icon>
+                                                            </a>
+                                                            <form method="POST" action="{{ route('customer.destroy', $customer->id) }}">
+                                                                @csrf
+                                                                @method('DELETE')
+                                                                <button type="submit" class="btn btn-soft-danger btn-sm" onclick="return confirm('Are you sure?')">
+                                                                    <iconify-icon icon="solar:trash-bin-minimalistic-2-broken" class="align-middle fs-18"></iconify-icon>
+                                                                </button>
+                                                            </form>
+                                                        </div>
+                                                    </td>
+
                                                   </tr>
                                                 @empty
                                                     <tr>
@@ -162,7 +170,7 @@
             <!-- ========== Footer End ========== -->
 
         </div>
-    
+
 
 
 @endsection

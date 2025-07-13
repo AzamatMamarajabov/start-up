@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Route;
 use Livewire\Volt\Volt;
 use App\Http\Controllers\Front\HomeController;
 use App\Http\Controllers\Front\AuthController;
-use App\Http\Controllers\Front\ProfileController; 
+use App\Http\Controllers\Front\ProfileController;
 use App\Http\Controllers\Admin\AdminAuthController;
 use App\Http\Controllers\Admin\CustomersController;
 
@@ -44,7 +44,13 @@ Route::middleware('admin')->group(function () {
     Route::get('/admin/profile', [AdminAuthController::class, 'profile'])->name('admin.profile');
     Route::post('/admin/logout', [AdminAuthController::class, 'logout'])->name('admin.logout');
 
+
     Route::get('/admin/customer', [CustomersController::class, 'index'])->name('customer.index');
+    Route::get('/admin/customer/create', [CustomersController::class, 'create'])->name('customer.create');
+    Route::post('/admin/customer/store', [CustomersController::class, 'store'])->name('customer.store');
+    Route::get('/admin/customer/{id}/edit', [CustomersController::class, 'edit'])->name('customer.edit');
+    Route::post('/admin/customer/{id}/update', [CustomersController::class, 'update'])->name('customer.update');
+    Route::delete('/admin/customer/{id}', [CustomersController::class, 'destroy'])->name('customer.destroy');
 });
 
 

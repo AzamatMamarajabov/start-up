@@ -459,7 +459,7 @@
                               </a>
                          </li>
 
-                         
+
 
                          <li class="menu-title mt-2">Users</li>
 
@@ -519,15 +519,15 @@
                                              <a class="sub-nav-link" href="{{ route('customer.index') }}">List</a>
                                         </li>
                                         <li class="sub-nav-item">
-                                             <a class="sub-nav-link" href="">Create</a>
+                                             <a class="sub-nav-link" href="{{ route('customer.create') }}">Create</a>
                                         </li>
                                    </ul>
                               </div>
                          </li>
 
-                        
 
-                         
+
+
                     </ul>
                </div>
           </div>
