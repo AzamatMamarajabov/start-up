@@ -1,1152 +1,1196 @@
-Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
-File Name: D:\start-up\rainbowit.net\ajax\libs\font-awesome\4.7.0\css\font-awesome.min.css
-Content Type: text/css
+Uri: http://maps.google.com/maps/api/js
+File Name: D:\start-up\techzaa.in\maps\api\js
+Content Type: text/javascript
 
-Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
-File Name: D:\start-up\rainbowit.net\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
-Content Type: application/octet-stream
-
-Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
-File Name: D:\start-up\rainbowit.net\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
-Content Type: application/octet-stream
-
-Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
-File Name: D:\start-up\rainbowit.net\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
-Content Type: image/svg+xml
-
-Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
-File Name: D:\start-up\rainbowit.net\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
-Content Type: application/octet-stream
-
-Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
-File Name: D:\start-up\rainbowit.net\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
-Content Type: application/octet-stream
-
-Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
-File Name: D:\start-up\rainbowit.net\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
-Content Type: application/octet-stream
-
-Uri: https://cdnjs.cloudflare.com/ajax/libs/vanilla-tilt/1.7.0/vanilla-tilt.min.js
-File Name: D:\start-up\rainbowit.net\ajax\libs\vanilla-tilt\1.7.0\vanilla-tilt.min.js
+Uri: https://apexcharts.com/samples/assets/github-data.js
+File Name: D:\start-up\techzaa.in\samples\assets\github-data.js
 Content Type: application/javascript
 
-Uri: https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap
-File Name: D:\start-up\rainbowit.net\css2
-Content Type: text/css
+Uri: https://apexcharts.com/samples/assets/irregular-data-series.js
+File Name: D:\start-up\techzaa.in\samples\assets\irregular-data-series.js
+Content Type: application/javascript
 
-Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
-File Name: D:\start-up\rainbowit.net\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
-Content Type: font/ttf
+Uri: https://apexcharts.com/samples/assets/ohlc.js
+File Name: D:\start-up\techzaa.in\samples\assets\ohlc.js
+Content Type: application/javascript
 
-Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
-File Name: D:\start-up\rainbowit.net\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
-Content Type: font/ttf
+Uri: https://apexcharts.com/samples/assets/series1000.js
+File Name: D:\start-up\techzaa.in\samples\assets\series1000.js
+Content Type: application/javascript
 
-Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbGmT.ttf
-File Name: D:\start-up\rainbowit.net\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbGmT.ttf
-Content Type: font/ttf
+Uri: https://apexcharts.com/samples/assets/stock-prices.js
+File Name: D:\start-up\techzaa.in\samples\assets\stock-prices.js
+Content Type: application/javascript
 
-Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
-File Name: D:\start-up\rainbowit.net\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
-File Name: D:\start-up\rainbowit.net\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtammT.ttf
-File Name: D:\start-up\rainbowit.net\s\roboto\v48\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtammT.ttf
-Content Type: font/ttf
-
-Uri: https://img.icons8.com/office/16/000000/back.png
-File Name: D:\start-up\rainbowit.net\office\16\000000\back.png
-Content Type: image/png
-
-Uri: https://img.icons8.com/office/16/000000/forward.png
-File Name: D:\start-up\rainbowit.net\office\16\000000\forward.png
-Content Type: image/png
-
-Uri: https://img.icons8.com/plasticine/100/000000/play.png
-File Name: D:\start-up\rainbowit.net\plasticine\100\000000\play.png
-Content Type: image/png
-
-Uri: https://rainbowit.net/html/nuron/404.html
-File Name: D:\start-up\rainbowit.net\html\nuron\404.html
-Content Type: text/html
-
-Uri: https://rainbowit.net/html/nuron/about.html
-File Name: D:\start-up\rainbowit.net\html\nuron\about.html
-Content Type: text/html
-
-Uri: https://rainbowit.net/html/nuron/activity.html
-File Name: D:\start-up\rainbowit.net\html\nuron\activity.html
-Content Type: text/html
-
-Uri: https://rainbowit.net/html/nuron/assets/css/plugins/feature.css
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\css\plugins\feature.css
-Content Type: text/css
-
-Uri: https://rainbowit.net/html/nuron/assets/css/plugins/jquery-ui.min.css
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\css\plugins\jquery-ui.min.css
-Content Type: text/css
-
-Uri: https://rainbowit.net/html/nuron/assets/css/style.css
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\css\style.css
-Content Type: text/css
-
-Uri: https://rainbowit.net/html/nuron/assets/css/vendor/bootstrap.min.css
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\css\vendor\bootstrap.min.css
-Content Type: text/css
-
-Uri: https://rainbowit.net/html/nuron/assets/css/vendor/nice-select.css
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\css\vendor\nice-select.css
-Content Type: text/css
-
-Uri: https://rainbowit.net/html/nuron/assets/css/vendor/odometer.css
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\css\vendor\odometer.css
-Content Type: text/css
-
-Uri: https://rainbowit.net/html/nuron/assets/css/vendor/slick-theme.css
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\css\vendor\slick-theme.css
-Content Type: text/css
-
-Uri: https://rainbowit.net/html/nuron/assets/css/vendor/slick.css
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\css\vendor\slick.css
-Content Type: text/css
-
-Uri: https://rainbowit.net/html/nuron/assets/fonts/Feather.svg?sdxovp
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\fonts\Feather.svg
-Content Type: image/svg+xml
-
-Uri: https://rainbowit.net/html/nuron/assets/fonts/Feather.ttf?sdxovp
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\fonts\Feather.ttf
-Content Type: font/ttf
-
-Uri: https://rainbowit.net/html/nuron/assets/fonts/Feather.woff?sdxovp
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\fonts\Feather.woff
-Content Type: font/woff
-
-Uri: https://rainbowit.net/html/nuron/assets/fonts/slick.eot
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\fonts\slick.eot
+Uri: https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/fonts/tabler-icons.eot?
+File Name: D:\start-up\techzaa.in\npm\@tabler\icons-webfont@latest\fonts\tabler-icons-1.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://rainbowit.net/html/nuron/assets/fonts/slick.eot?
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\fonts\slick-1.eot
+Uri: https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/fonts/tabler-icons.eot?v2.47.0
+File Name: D:\start-up\techzaa.in\npm\@tabler\icons-webfont@latest\fonts\tabler-icons.eot
 Content Type: application/vnd.ms-fontobject
 
-Uri: https://rainbowit.net/html/nuron/assets/fonts/slick.svg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\fonts\slick.svg
-Content Type: image/svg+xml
-
-Uri: https://rainbowit.net/html/nuron/assets/fonts/slick.ttf
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\fonts\slick.ttf
+Uri: https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/fonts/tabler-icons.ttf?v2.47.0
+File Name: D:\start-up\techzaa.in\npm\@tabler\icons-webfont@latest\fonts\tabler-icons.ttf
 Content Type: font/ttf
 
-Uri: https://rainbowit.net/html/nuron/assets/fonts/slick.woff
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\fonts\slick.woff
+Uri: https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/fonts/tabler-icons.woff2?v2.47.0
+File Name: D:\start-up\techzaa.in\npm\@tabler\icons-webfont@latest\fonts\tabler-icons.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/fonts/tabler-icons.woff?
+File Name: D:\start-up\techzaa.in\npm\@tabler\icons-webfont@latest\fonts\tabler-icons.woff
 Content Type: font/woff
 
-Uri: https://rainbowit.net/html/nuron/assets/images/activity/activity-01.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\activity\activity-01.jpg
-Content Type: image/jpeg
+Uri: https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css
+File Name: D:\start-up\techzaa.in\npm\@tabler\icons-webfont@latest\tabler-icons.min.css
+Content Type: text/css
 
-Uri: https://rainbowit.net/html/nuron/assets/images/activity/activity-02.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\activity\activity-02.jpg
-Content Type: image/jpeg
+Uri: https://cdnjs.cloudflare.com/ajax/libs/dayjs/1.11.0/dayjs.min.js
+File Name: D:\start-up\techzaa.in\ajax\libs\dayjs\1.11.0\dayjs.min.js
+Content Type: application/javascript
 
-Uri: https://rainbowit.net/html/nuron/assets/images/activity/activity-03.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\activity\activity-03.jpg
-Content Type: image/jpeg
+Uri: https://cdnjs.cloudflare.com/ajax/libs/dayjs/1.11.0/plugin/quarterOfYear.min.js
+File Name: D:\start-up\techzaa.in\ajax\libs\dayjs\1.11.0\plugin\quarterOfYear.min.js
+Content Type: application/javascript
 
-Uri: https://rainbowit.net/html/nuron/assets/images/activity/activity-04.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\activity\activity-04.jpg
-Content Type: image/jpeg
+Uri: https://cdnjs.cloudflare.com/ajax/libs/dayjs/1.8.17/dayjs.min.js
+File Name: D:\start-up\techzaa.in\ajax\libs\dayjs\1.8.17\dayjs.min.js
+Content Type: application/javascript
 
-Uri: https://rainbowit.net/html/nuron/assets/images/activity/activity-05.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\activity\activity-05.jpg
-Content Type: image/jpeg
+Uri: https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&family=Play:wght@400;700&display=swap
+File Name: D:\start-up\techzaa.in\css2
+Content Type: text/css
 
-Uri: https://rainbowit.net/html/nuron/assets/images/activity/activity-06.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\activity\activity-06.jpg
-Content Type: image/jpeg
+Uri: https://fonts.gstatic.com/s/hankengrotesk/v11/ieVo2YZDLWuGJpnzaiwFXS9tYtpY_d6T_POl0fRJeyUbpfBJ.ttf
+File Name: D:\start-up\techzaa.in\s\hankengrotesk\v11\ieVo2YZDLWuGJpnzaiwFXS9tYtpY_d6T_POl0fRJeyUbpfBJ.ttf
+Content Type: font/ttf
 
-Uri: https://rainbowit.net/html/nuron/assets/images/ajax-loader.gif
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\ajax-loader.gif
-Content Type: image/gif
+Uri: https://fonts.gstatic.com/s/hankengrotesk/v11/ieVo2YZDLWuGJpnzaiwFXS9tYtpY_d6T_POl0fRJeyUyovBJ.ttf
+File Name: D:\start-up\techzaa.in\s\hankengrotesk\v11\ieVo2YZDLWuGJpnzaiwFXS9tYtpY_d6T_POl0fRJeyUyovBJ.ttf
+Content Type: font/ttf
 
-Uri: https://rainbowit.net/html/nuron/assets/images/banner/badge.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\banner\badge.png
-Content Type: image/png
+Uri: https://fonts.gstatic.com/s/hankengrotesk/v11/ieVo2YZDLWuGJpnzaiwFXS9tYtpY_d6T_POl0fRJeyUypfBJ.ttf
+File Name: D:\start-up\techzaa.in\s\hankengrotesk\v11\ieVo2YZDLWuGJpnzaiwFXS9tYtpY_d6T_POl0fRJeyUypfBJ.ttf
+Content Type: font/ttf
 
-Uri: https://rainbowit.net/html/nuron/assets/images/banner/banner-01.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\banner\banner-01.jpg
-Content Type: image/jpeg
+Uri: https://fonts.gstatic.com/s/hankengrotesk/v11/ieVo2YZDLWuGJpnzaiwFXS9tYtpY_d6T_POl0fRJeyVspfBJ.ttf
+File Name: D:\start-up\techzaa.in\s\hankengrotesk\v11\ieVo2YZDLWuGJpnzaiwFXS9tYtpY_d6T_POl0fRJeyVspfBJ.ttf
+Content Type: font/ttf
 
-Uri: https://rainbowit.net/html/nuron/assets/images/banner/banner-01.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\banner\banner-01.png
-Content Type: image/png
+Uri: https://fonts.gstatic.com/s/hankengrotesk/v11/ieVo2YZDLWuGJpnzaiwFXS9tYtpY_d6T_POl0fRJeyVVpfBJ.ttf
+File Name: D:\start-up\techzaa.in\s\hankengrotesk\v11\ieVo2YZDLWuGJpnzaiwFXS9tYtpY_d6T_POl0fRJeyVVpfBJ.ttf
+Content Type: font/ttf
 
-Uri: https://rainbowit.net/html/nuron/assets/images/banner/banner-02.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\banner\banner-02.jpg
-Content Type: image/jpeg
+Uri: https://fonts.gstatic.com/s/hankengrotesk/v11/ieVo2YZDLWuGJpnzaiwFXS9tYtpY_d6T_POl0fRJeyWAovBJ.ttf
+File Name: D:\start-up\techzaa.in\s\hankengrotesk\v11\ieVo2YZDLWuGJpnzaiwFXS9tYtpY_d6T_POl0fRJeyWAovBJ.ttf
+Content Type: font/ttf
 
-Uri: https://rainbowit.net/html/nuron/assets/images/banner/banner-02.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\banner\banner-02.png
-Content Type: image/png
+Uri: https://fonts.gstatic.com/s/hankengrotesk/v11/ieVo2YZDLWuGJpnzaiwFXS9tYtpY_d6T_POl0fRJeyWyovBJ.ttf
+File Name: D:\start-up\techzaa.in\s\hankengrotesk\v11\ieVo2YZDLWuGJpnzaiwFXS9tYtpY_d6T_POl0fRJeyWyovBJ.ttf
+Content Type: font/ttf
 
-Uri: https://rainbowit.net/html/nuron/assets/images/banner/banner-03.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\banner\banner-03.jpg
-Content Type: image/jpeg
+Uri: https://fonts.gstatic.com/s/hankengrotesk/v11/ieVo2YZDLWuGJpnzaiwFXS9tYtpY_d6T_POl0fRJeyWyo_BJ.ttf
+File Name: D:\start-up\techzaa.in\s\hankengrotesk\v11\ieVo2YZDLWuGJpnzaiwFXS9tYtpY_d6T_POl0fRJeyWyo_BJ.ttf
+Content Type: font/ttf
 
-Uri: https://rainbowit.net/html/nuron/assets/images/banner/banner-03.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\banner\banner-03.png
-Content Type: image/png
+Uri: https://fonts.gstatic.com/s/hankengrotesk/v11/ieVo2YZDLWuGJpnzaiwFXS9tYtpY_d6T_POl0fRJeyXsovBJ.ttf
+File Name: D:\start-up\techzaa.in\s\hankengrotesk\v11\ieVo2YZDLWuGJpnzaiwFXS9tYtpY_d6T_POl0fRJeyXsovBJ.ttf
+Content Type: font/ttf
 
-Uri: https://rainbowit.net/html/nuron/assets/images/banner/banner-04.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\banner\banner-04.jpg
-Content Type: image/jpeg
+Uri: https://fonts.gstatic.com/s/hankengrotesk/v11/ieVq2YZDLWuGJpnzaiwFXS9tYvBRzyFLlZg_f_Nc7WZa4Q.ttf
+File Name: D:\start-up\techzaa.in\s\hankengrotesk\v11\ieVq2YZDLWuGJpnzaiwFXS9tYvBRzyFLlZg_f_Nc7WZa4Q.ttf
+Content Type: font/ttf
 
-Uri: https://rainbowit.net/html/nuron/assets/images/banner/banner-04.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\banner\banner-04.png
-Content Type: image/png
+Uri: https://fonts.gstatic.com/s/hankengrotesk/v11/ieVq2YZDLWuGJpnzaiwFXS9tYvBRzyFLlZg_f_NcbWFa4Q.ttf
+File Name: D:\start-up\techzaa.in\s\hankengrotesk\v11\ieVq2YZDLWuGJpnzaiwFXS9tYvBRzyFLlZg_f_NcbWFa4Q.ttf
+Content Type: font/ttf
 
-Uri: https://rainbowit.net/html/nuron/assets/images/banner/banner-05.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\banner\banner-05.jpg
-Content Type: image/jpeg
+Uri: https://fonts.gstatic.com/s/hankengrotesk/v11/ieVq2YZDLWuGJpnzaiwFXS9tYvBRzyFLlZg_f_NcGmFa4Q.ttf
+File Name: D:\start-up\techzaa.in\s\hankengrotesk\v11\ieVq2YZDLWuGJpnzaiwFXS9tYvBRzyFLlZg_f_NcGmFa4Q.ttf
+Content Type: font/ttf
 
-Uri: https://rainbowit.net/html/nuron/assets/images/banner/banner-05.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\banner\banner-05.png
-Content Type: image/png
+Uri: https://fonts.gstatic.com/s/hankengrotesk/v11/ieVq2YZDLWuGJpnzaiwFXS9tYvBRzyFLlZg_f_NcgWZa4Q.ttf
+File Name: D:\start-up\techzaa.in\s\hankengrotesk\v11\ieVq2YZDLWuGJpnzaiwFXS9tYvBRzyFLlZg_f_NcgWZa4Q.ttf
+Content Type: font/ttf
 
-Uri: https://rainbowit.net/html/nuron/assets/images/banner/banner-06.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\banner\banner-06.png
-Content Type: image/png
+Uri: https://fonts.gstatic.com/s/hankengrotesk/v11/ieVq2YZDLWuGJpnzaiwFXS9tYvBRzyFLlZg_f_NcM2Fa4Q.ttf
+File Name: D:\start-up\techzaa.in\s\hankengrotesk\v11\ieVq2YZDLWuGJpnzaiwFXS9tYvBRzyFLlZg_f_NcM2Fa4Q.ttf
+Content Type: font/ttf
 
-Uri: https://rainbowit.net/html/nuron/assets/images/banner/banner-07.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\banner\banner-07.png
-Content Type: image/png
+Uri: https://fonts.gstatic.com/s/hankengrotesk/v11/ieVq2YZDLWuGJpnzaiwFXS9tYvBRzyFLlZg_f_NcM2Za4Q.ttf
+File Name: D:\start-up\techzaa.in\s\hankengrotesk\v11\ieVq2YZDLWuGJpnzaiwFXS9tYvBRzyFLlZg_f_NcM2Za4Q.ttf
+Content Type: font/ttf
 
-Uri: https://rainbowit.net/html/nuron/assets/images/banner/banner-08.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\banner\banner-08.png
-Content Type: image/png
+Uri: https://fonts.gstatic.com/s/hankengrotesk/v11/ieVq2YZDLWuGJpnzaiwFXS9tYvBRzyFLlZg_f_Ncs2da4Q.ttf
+File Name: D:\start-up\techzaa.in\s\hankengrotesk\v11\ieVq2YZDLWuGJpnzaiwFXS9tYvBRzyFLlZg_f_Ncs2da4Q.ttf
+Content Type: font/ttf
 
-Uri: https://rainbowit.net/html/nuron/assets/images/banner/banner-10.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\banner\banner-10.png
-Content Type: image/png
+Uri: https://fonts.gstatic.com/s/hankengrotesk/v11/ieVq2YZDLWuGJpnzaiwFXS9tYvBRzyFLlZg_f_Ncs2Za4Q.ttf
+File Name: D:\start-up\techzaa.in\s\hankengrotesk\v11\ieVq2YZDLWuGJpnzaiwFXS9tYvBRzyFLlZg_f_Ncs2Za4Q.ttf
+Content Type: font/ttf
 
-Uri: https://rainbowit.net/html/nuron/assets/images/banner/banner-sm-01.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\banner\banner-sm-01.jpg
-Content Type: image/jpeg
+Uri: https://fonts.gstatic.com/s/hankengrotesk/v11/ieVq2YZDLWuGJpnzaiwFXS9tYvBRzyFLlZg_f_NcVGFa4Q.ttf
+File Name: D:\start-up\techzaa.in\s\hankengrotesk\v11\ieVq2YZDLWuGJpnzaiwFXS9tYvBRzyFLlZg_f_NcVGFa4Q.ttf
+Content Type: font/ttf
 
-Uri: https://rainbowit.net/html/nuron/assets/images/banner/banner-sm-02.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\banner\banner-sm-02.jpg
-Content Type: image/jpeg
+Uri: https://fonts.gstatic.com/s/play/v20/6ae84K2oVqwItm4TOpc.ttf
+File Name: D:\start-up\techzaa.in\s\play\v20\6ae84K2oVqwItm4TOpc.ttf
+Content Type: font/ttf
 
-Uri: https://rainbowit.net/html/nuron/assets/images/banner/banner-sm-03.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\banner\banner-sm-03.jpg
-Content Type: image/jpeg
+Uri: https://fonts.gstatic.com/s/play/v20/6aez4K2oVqwIjtI.ttf
+File Name: D:\start-up\techzaa.in\s\play\v20\6aez4K2oVqwIjtI.ttf
+Content Type: font/ttf
 
-Uri: https://rainbowit.net/html/nuron/assets/images/banner/banner-sm-04.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\banner\banner-sm-04.jpg
-Content Type: image/jpeg
+Uri: https://techzaa.in/larkon/admin/apps-calendar.html
+File Name: D:\start-up\techzaa.in\larkon\admin\apps-calendar.html
+Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/assets/images/banner/banner-sm-05.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\banner\banner-sm-05.jpg
-Content Type: image/jpeg
+Uri: https://techzaa.in/larkon/admin/apps-chat.html
+File Name: D:\start-up\techzaa.in\larkon\admin\apps-chat.html
+Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/assets/images/banner/banner-sm-06.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\banner\banner-sm-06.jpg
-Content Type: image/jpeg
+Uri: https://techzaa.in/larkon/admin/apps-email.html
+File Name: D:\start-up\techzaa.in\larkon\admin\apps-email.html
+Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/assets/images/banner/h-three-banner-01.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\banner\h-three-banner-01.jpg
-Content Type: image/jpeg
+Uri: https://techzaa.in/larkon/admin/apps-todo.html
+File Name: D:\start-up\techzaa.in\larkon\admin\apps-todo.html
+Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/assets/images/banner/h-three-banner-02.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\banner\h-three-banner-02.jpg
-Content Type: image/jpeg
+Uri: https://techzaa.in/larkon/admin/assets/css/app.min.css
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\css\app.min.css
+Content Type: text/css
 
-Uri: https://rainbowit.net/html/nuron/assets/images/banner/h-three-banner-03.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\banner\h-three-banner-03.jpg
-Content Type: image/jpeg
+Uri: https://techzaa.in/larkon/admin/assets/css/icons.min.css
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\css\icons.min.css
+Content Type: text/css
 
-Uri: https://rainbowit.net/html/nuron/assets/images/banner/sm-icon/icon-1.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\banner\sm-icon\icon-1.png
-Content Type: image/png
+Uri: https://techzaa.in/larkon/admin/assets/css/vendor.min.css
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\css\vendor.min.css
+Content Type: text/css
 
-Uri: https://rainbowit.net/html/nuron/assets/images/banner/sm-icon/icon-2.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\banner\sm-icon\icon-2.png
-Content Type: image/png
+Uri: https://techzaa.in/larkon/admin/assets/fonts/boxicons.eot
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\fonts\boxicons.eot
+Content Type: application/vnd.ms-fontobject
 
-Uri: https://rainbowit.net/html/nuron/assets/images/banner/sm-icon/icon-3.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\banner\sm-icon\icon-3.png
-Content Type: image/png
-
-Uri: https://rainbowit.net/html/nuron/assets/images/banner/sm-icon/icon-4.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\banner\sm-icon\icon-4.png
-Content Type: image/png
-
-Uri: https://rainbowit.net/html/nuron/assets/images/banner/sm-icon/icon-5.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\banner\sm-icon\icon-5.png
-Content Type: image/png
-
-Uri: https://rainbowit.net/html/nuron/assets/images/banner/sm-icon/icon-6.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\banner\sm-icon\icon-6.png
-Content Type: image/png
-
-Uri: https://rainbowit.net/html/nuron/assets/images/bg/bg-image-1.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\bg\bg-image-1.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/bg/bg-image-1.svg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\bg\bg-image-1.svg
+Uri: https://techzaa.in/larkon/admin/assets/fonts/boxicons.svg?
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\fonts\boxicons.svg
 Content Type: image/svg+xml
 
-Uri: https://rainbowit.net/html/nuron/assets/images/bg/bg-image-10.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\bg\bg-image-10.jpg
-Content Type: image/jpeg
+Uri: https://techzaa.in/larkon/admin/assets/fonts/boxicons.ttf
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\fonts\boxicons.ttf
+Content Type: font/ttf
 
-Uri: https://rainbowit.net/html/nuron/assets/images/bg/bg-image-13.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\bg\bg-image-13.jpg
-Content Type: image/jpeg
+Uri: https://techzaa.in/larkon/admin/assets/fonts/boxicons.woff
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\fonts\boxicons.woff
+Content Type: font/woff
 
-Uri: https://rainbowit.net/html/nuron/assets/images/bg/bg-image-14.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\bg\bg-image-14.jpg
-Content Type: image/jpeg
+Uri: https://techzaa.in/larkon/admin/assets/fonts/boxicons.woff2
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\fonts\boxicons.woff2
+Content Type: font/woff2
 
-Uri: https://rainbowit.net/html/nuron/assets/images/bg/bg-image-15.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\bg\bg-image-15.jpg
-Content Type: image/jpeg
+Uri: https://techzaa.in/larkon/admin/assets/fonts/tabler-icons.ttf?v3.4.0
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\fonts\tabler-icons.ttf
+Content Type: font/ttf
 
-Uri: https://rainbowit.net/html/nuron/assets/images/bg/bg-image-16.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\bg\bg-image-16.jpg
-Content Type: image/jpeg
+Uri: https://techzaa.in/larkon/admin/assets/fonts/tabler-icons.woff2?v3.4.0
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\fonts\tabler-icons.woff2
+Content Type: font/woff2
 
-Uri: https://rainbowit.net/html/nuron/assets/images/bg/bg-image-17.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\bg\bg-image-17.jpg
-Content Type: image/jpeg
+Uri: https://techzaa.in/larkon/admin/assets/fonts/tabler-icons.woff?
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\fonts\tabler-icons.woff
+Content Type: font/woff
 
-Uri: https://rainbowit.net/html/nuron/assets/images/bg/bg-image-18.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\bg\bg-image-18.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/bg/bg-image-19.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\bg\bg-image-19.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/bg/bg-image-2.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\bg\bg-image-2.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/bg/bg-image-20.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\bg\bg-image-20.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/bg/bg-image-21.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\bg\bg-image-21.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/bg/bg-image-22.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\bg\bg-image-22.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/bg/bg-image-23.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\bg\bg-image-23.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/bg/bg-image-24.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\bg\bg-image-24.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/bg/bg-image-6.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\bg\bg-image-6.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/bg/bg-image-9.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\bg\bg-image-9.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/bg/noise.gif
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\bg\noise.gif
-Content Type: image/gif
-
-Uri: https://rainbowit.net/html/nuron/assets/images/blog/blog-02.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\blog\blog-02.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/blog/blog-03.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\blog\blog-03.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/blog/blog-04.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\blog\blog-04.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/blog/blog-05.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\blog\blog-05.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/blog/blog-06.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\blog\blog-06.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/blog/blog-07.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\blog\blog-07.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/blog/blog-08.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\blog\blog-08.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/blog/blog-09.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\blog\blog-09.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/blog/comment/comment-01.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\blog\comment\comment-01.png
+Uri: https://techzaa.in/larkon/admin/assets/images/404-error.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\404-error.png
 Content Type: image/png
 
-Uri: https://rainbowit.net/html/nuron/assets/images/blog/community/community-post-01.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\blog\community\community-post-01.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/blog/community/community-post-02.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\blog\community\community-post-02.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/blog/lg/blog-01.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\blog\lg\blog-01.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/brand/brand-01.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\brand\brand-01.png
+Uri: https://techzaa.in/larkon/admin/assets/images/app-calendar/facebook.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\app-calendar\facebook.png
 Content Type: image/png
 
-Uri: https://rainbowit.net/html/nuron/assets/images/brand/brand-02.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\brand\brand-02.png
+Uri: https://techzaa.in/larkon/admin/assets/images/app-calendar/google-analytics.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\app-calendar\google-analytics.png
 Content Type: image/png
 
-Uri: https://rainbowit.net/html/nuron/assets/images/brand/brand-03.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\brand\brand-03.png
+Uri: https://techzaa.in/larkon/admin/assets/images/app-calendar/google-mail.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\app-calendar\google-mail.png
 Content Type: image/png
 
-Uri: https://rainbowit.net/html/nuron/assets/images/brand/brand-04.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\brand\brand-04.png
+Uri: https://techzaa.in/larkon/admin/assets/images/app-calendar/google-meet.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\app-calendar\google-meet.png
 Content Type: image/png
 
-Uri: https://rainbowit.net/html/nuron/assets/images/brand/brand-06.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\brand\brand-06.png
+Uri: https://techzaa.in/larkon/admin/assets/images/app-calendar/slack.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\app-calendar\slack.png
 Content Type: image/png
 
-Uri: https://rainbowit.net/html/nuron/assets/images/brand/brand-07.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\brand\brand-07.png
+Uri: https://techzaa.in/larkon/admin/assets/images/app-calendar/stripe.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\app-calendar\stripe.png
 Content Type: image/png
 
-Uri: https://rainbowit.net/html/nuron/assets/images/client/client-1.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\client\client-1.png
+Uri: https://techzaa.in/larkon/admin/assets/images/app-calendar/zoom.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\app-calendar\zoom.png
 Content Type: image/png
 
-Uri: https://rainbowit.net/html/nuron/assets/images/client/client-10.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\client\client-10.png
+Uri: https://techzaa.in/larkon/admin/assets/images/brands/dhl.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\brands\dhl.png
 Content Type: image/png
 
-Uri: https://rainbowit.net/html/nuron/assets/images/client/client-11.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\client\client-11.png
+Uri: https://techzaa.in/larkon/admin/assets/images/brands/fedex.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\brands\fedex.png
 Content Type: image/png
 
-Uri: https://rainbowit.net/html/nuron/assets/images/client/client-12.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\client\client-12.png
+Uri: https://techzaa.in/larkon/admin/assets/images/brands/ups.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\brands\ups.png
 Content Type: image/png
 
-Uri: https://rainbowit.net/html/nuron/assets/images/client/client-13.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\client\client-13.png
-Content Type: image/png
-
-Uri: https://rainbowit.net/html/nuron/assets/images/client/client-14.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\client\client-14.png
-Content Type: image/png
-
-Uri: https://rainbowit.net/html/nuron/assets/images/client/client-15.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\client\client-15.png
-Content Type: image/png
-
-Uri: https://rainbowit.net/html/nuron/assets/images/client/client-2.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\client\client-2.png
-Content Type: image/png
-
-Uri: https://rainbowit.net/html/nuron/assets/images/client/client-3.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\client\client-3.png
-Content Type: image/png
-
-Uri: https://rainbowit.net/html/nuron/assets/images/client/client-4.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\client\client-4.png
-Content Type: image/png
-
-Uri: https://rainbowit.net/html/nuron/assets/images/client/client-5.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\client\client-5.png
-Content Type: image/png
-
-Uri: https://rainbowit.net/html/nuron/assets/images/client/client-6.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\client\client-6.png
-Content Type: image/png
-
-Uri: https://rainbowit.net/html/nuron/assets/images/client/client-7.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\client\client-7.png
-Content Type: image/png
-
-Uri: https://rainbowit.net/html/nuron/assets/images/client/client-8.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\client\client-8.png
-Content Type: image/png
-
-Uri: https://rainbowit.net/html/nuron/assets/images/client/client-9.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\client\client-9.png
-Content Type: image/png
-
-Uri: https://rainbowit.net/html/nuron/assets/images/client/testimonial-1.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\client\testimonial-1.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/collection/collection-lg-01.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\collection\collection-lg-01.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/collection/collection-lg-02.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\collection\collection-lg-02.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/collection/collection-lg-03.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\collection\collection-lg-03.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/collection/collection-lg-04.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\collection\collection-lg-04.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/collection/collection-lg-05.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\collection\collection-lg-05.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/collection/collection-sm-01.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\collection\collection-sm-01.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/collection/collection-sm-02.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\collection\collection-sm-02.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/collection/collection-sm-03.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\collection\collection-sm-03.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/collection/collection-sm-04.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\collection\collection-sm-04.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/collection/collection-sm-05.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\collection\collection-sm-05.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/collection/collection-sm-06.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\collection\collection-sm-06.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/collection/collection-sm-07.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\collection\collection-sm-07.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/collection/collection-sm-08.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\collection\collection-sm-08.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/collection/collection-sm-09.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\collection\collection-sm-09.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/collection/collection-sm-10.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\collection\collection-sm-10.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/collection/collection-sm-11.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\collection\collection-sm-11.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/collection/collection-sm-12.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\collection\collection-sm-12.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/connect/connect-01.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\connect\connect-01.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/contact/contact1.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\contact\contact1.png
-Content Type: image/png
-
-Uri: https://rainbowit.net/html/nuron/assets/images/favicon.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\favicon.png
-Content Type: image/png
-
-Uri: https://rainbowit.net/html/nuron/assets/images/icons/boy-avater.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\icons\boy-avater.png
-Content Type: image/png
-
-Uri: https://rainbowit.net/html/nuron/assets/images/icons/facebook.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\icons\facebook.png
-Content Type: image/png
-
-Uri: https://rainbowit.net/html/nuron/assets/images/icons/google.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\icons\google.png
-Content Type: image/png
-
-Uri: https://rainbowit.net/html/nuron/assets/images/icons/linkedin.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\icons\linkedin.png
-Content Type: image/png
-
-Uri: https://rainbowit.net/html/nuron/assets/images/icons/meta.svg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\icons\meta.svg
+Uri: https://techzaa.in/larkon/admin/assets/images/card/mastercard.svg
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\card\mastercard.svg
 Content Type: image/svg+xml
 
-Uri: https://rainbowit.net/html/nuron/assets/images/icons/quote2.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\icons\quote2.png
-Content Type: image/png
-
-Uri: https://rainbowit.net/html/nuron/assets/images/icons/rating-2.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\icons\rating-2.png
-Content Type: image/png
-
-Uri: https://rainbowit.net/html/nuron/assets/images/icons/shape-1.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\icons\shape-1.png
-Content Type: image/png
-
-Uri: https://rainbowit.net/html/nuron/assets/images/icons/shape-10.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\icons\shape-10.png
-Content Type: image/png
-
-Uri: https://rainbowit.net/html/nuron/assets/images/icons/shape-11.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\icons\shape-11.png
-Content Type: image/png
-
-Uri: https://rainbowit.net/html/nuron/assets/images/icons/shape-13.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\icons\shape-13.png
-Content Type: image/png
-
-Uri: https://rainbowit.net/html/nuron/assets/images/icons/shape-5.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\icons\shape-5.png
-Content Type: image/png
-
-Uri: https://rainbowit.net/html/nuron/assets/images/icons/shape-6.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\icons\shape-6.png
-Content Type: image/png
-
-Uri: https://rainbowit.net/html/nuron/assets/images/icons/shape-7.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\icons\shape-7.png
-Content Type: image/png
-
-Uri: https://rainbowit.net/html/nuron/assets/images/icons/shape-9.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\icons\shape-9.png
-Content Type: image/png
-
-Uri: https://rainbowit.net/html/nuron/assets/images/icons/sun-01.svg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\icons\sun-01.svg
+Uri: https://techzaa.in/larkon/admin/assets/images/card/paypal.svg
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\card\paypal.svg
 Content Type: image/svg+xml
 
-Uri: https://rainbowit.net/html/nuron/assets/images/icons/trophy.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\icons\trophy.png
-Content Type: image/png
-
-Uri: https://rainbowit.net/html/nuron/assets/images/icons/tweeter.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\icons\tweeter.png
-Content Type: image/png
-
-Uri: https://rainbowit.net/html/nuron/assets/images/icons/vector.svg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\icons\vector.svg
+Uri: https://techzaa.in/larkon/admin/assets/images/card/stripe.svg
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\card\stripe.svg
 Content Type: image/svg+xml
 
-Uri: https://rainbowit.net/html/nuron/assets/images/icons/wallet/1.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\icons\wallet\1.png
+Uri: https://techzaa.in/larkon/admin/assets/images/card/visa.svg
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\card\visa.svg
+Content Type: image/svg+xml
+
+Uri: https://techzaa.in/larkon/admin/assets/images/check-2.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\check-2.png
 Content Type: image/png
 
-Uri: https://rainbowit.net/html/nuron/assets/images/icons/wallet/2.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\icons\wallet\2.png
+Uri: https://techzaa.in/larkon/admin/assets/images/coming-soon.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\coming-soon.png
 Content Type: image/png
 
-Uri: https://rainbowit.net/html/nuron/assets/images/icons/wallet/3.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\icons\wallet\3.png
+Uri: https://techzaa.in/larkon/admin/assets/images/double.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\double.png
 Content Type: image/png
 
-Uri: https://rainbowit.net/html/nuron/assets/images/icons/wallet/4.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\icons\wallet\4.png
+Uri: https://techzaa.in/larkon/admin/assets/images/favicon.ico
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://techzaa.in/larkon/admin/assets/images/logo-dark.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\logo-dark.png
 Content Type: image/png
 
-Uri: https://rainbowit.net/html/nuron/assets/images/icons/wallet/5.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\icons\wallet\5.png
+Uri: https://techzaa.in/larkon/admin/assets/images/logo-light.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\logo-light.png
 Content Type: image/png
 
-Uri: https://rainbowit.net/html/nuron/assets/images/icons/wallet/6.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\icons\wallet\6.png
+Uri: https://techzaa.in/larkon/admin/assets/images/logo-sm.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\logo-sm.png
 Content Type: image/png
 
-Uri: https://rainbowit.net/html/nuron/assets/images/icons/wallet/7.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\icons\wallet\7.png
+Uri: https://techzaa.in/larkon/admin/assets/images/maintenance-2.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\maintenance-2.png
 Content Type: image/png
 
-Uri: https://rainbowit.net/html/nuron/assets/images/icons/wallet/8.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\icons\wallet\8.png
+Uri: https://techzaa.in/larkon/admin/assets/images/party.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\party.png
 Content Type: image/png
 
-Uri: https://rainbowit.net/html/nuron/assets/images/logo/award-logo.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\logo\award-logo.png
+Uri: https://techzaa.in/larkon/admin/assets/images/product/p-1.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\product\p-1.png
 Content Type: image/png
 
-Uri: https://rainbowit.net/html/nuron/assets/images/logo/logo-dark.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\logo\logo-dark.png
+Uri: https://techzaa.in/larkon/admin/assets/images/product/p-10.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\product\p-10.png
 Content Type: image/png
 
-Uri: https://rainbowit.net/html/nuron/assets/images/logo/logo-white.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\logo\logo-white.png
+Uri: https://techzaa.in/larkon/admin/assets/images/product/p-11.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\product\p-11.png
 Content Type: image/png
 
-Uri: https://rainbowit.net/html/nuron/assets/images/newsletter/newsletter-01.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\newsletter\newsletter-01.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/portfolio/lg/portfolio-01.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\portfolio\lg\portfolio-01.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/portfolio/lg/portfolio-02.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\portfolio\lg\portfolio-02.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/portfolio/lg/portfolio-03.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\portfolio\lg\portfolio-03.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/portfolio/portfolio-01.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\portfolio\portfolio-01.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/portfolio/portfolio-02.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\portfolio\portfolio-02.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/portfolio/portfolio-03.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\portfolio\portfolio-03.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/portfolio/portfolio-04.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\portfolio\portfolio-04.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/portfolio/portfolio-05.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\portfolio\portfolio-05.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/portfolio/portfolio-06.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\portfolio\portfolio-06.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/portfolio/portfolio-07.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\portfolio\portfolio-07.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/portfolio/portfolio-08.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\portfolio\portfolio-08.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/portfolio/portfolio-09.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\portfolio\portfolio-09.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/portfolio/portfolio-10.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\portfolio\portfolio-10.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/portfolio/portfolio-11.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\portfolio\portfolio-11.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/portfolio/sm/portfolio-01.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\portfolio\sm\portfolio-01.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/portfolio/sm/portfolio-02.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\portfolio\sm\portfolio-02.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/portfolio/sm/portfolio-03.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\portfolio\sm\portfolio-03.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/profile/cover-03.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\profile\cover-03.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/profile/cover-04.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\profile\cover-04.png
+Uri: https://techzaa.in/larkon/admin/assets/images/product/p-12.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\product\p-12.png
 Content Type: image/png
 
-Uri: https://rainbowit.net/html/nuron/assets/images/profile/profile-01.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\profile\profile-01.jpg
-Content Type: image/jpeg
-
-Uri: https://rainbowit.net/html/nuron/assets/images/slider/banner-06.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\slider\banner-06.png
+Uri: https://techzaa.in/larkon/admin/assets/images/product/p-13.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\product\p-13.png
 Content Type: image/png
 
-Uri: https://rainbowit.net/html/nuron/assets/images/slider/slider-1.png
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\slider\slider-1.png
+Uri: https://techzaa.in/larkon/admin/assets/images/product/p-14.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\product\p-14.png
 Content Type: image/png
 
-Uri: https://rainbowit.net/html/nuron/assets/images/upload-variants/multiple.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\upload-variants\multiple.jpg
+Uri: https://techzaa.in/larkon/admin/assets/images/product/p-2.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\product\p-2.png
+Content Type: image/png
+
+Uri: https://techzaa.in/larkon/admin/assets/images/product/p-3.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\product\p-3.png
+Content Type: image/png
+
+Uri: https://techzaa.in/larkon/admin/assets/images/product/p-4.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\product\p-4.png
+Content Type: image/png
+
+Uri: https://techzaa.in/larkon/admin/assets/images/product/p-5.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\product\p-5.png
+Content Type: image/png
+
+Uri: https://techzaa.in/larkon/admin/assets/images/product/p-6.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\product\p-6.png
+Content Type: image/png
+
+Uri: https://techzaa.in/larkon/admin/assets/images/product/p-7.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\product\p-7.png
+Content Type: image/png
+
+Uri: https://techzaa.in/larkon/admin/assets/images/product/p-8.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\product\p-8.png
+Content Type: image/png
+
+Uri: https://techzaa.in/larkon/admin/assets/images/product/p-9.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\product\p-9.png
+Content Type: image/png
+
+Uri: https://techzaa.in/larkon/admin/assets/images/products/product-1(1).png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\products\product-1(1).png
+Content Type: image/png
+
+Uri: https://techzaa.in/larkon/admin/assets/images/products/product-1(2).png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\products\product-1(2).png
+Content Type: image/png
+
+Uri: https://techzaa.in/larkon/admin/assets/images/products/product-4.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\products\product-4.png
+Content Type: image/png
+
+Uri: https://techzaa.in/larkon/admin/assets/images/products/product-5.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\products\product-5.png
+Content Type: image/png
+
+Uri: https://techzaa.in/larkon/admin/assets/images/products/product-6.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\products\product-6.png
+Content Type: image/png
+
+Uri: https://techzaa.in/larkon/admin/assets/images/qr-code.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\qr-code.png
+Content Type: image/png
+
+Uri: https://techzaa.in/larkon/admin/assets/images/seller/dyson.svg
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\seller\dyson.svg
+Content Type: image/svg+xml
+
+Uri: https://techzaa.in/larkon/admin/assets/images/seller/gopro.svg
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\seller\gopro.svg
+Content Type: image/svg+xml
+
+Uri: https://techzaa.in/larkon/admin/assets/images/seller/h&m.svg
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\seller\h&m.svg
+Content Type: image/svg+xml
+
+Uri: https://techzaa.in/larkon/admin/assets/images/seller/huawei.svg
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\seller\huawei.svg
+Content Type: image/svg+xml
+
+Uri: https://techzaa.in/larkon/admin/assets/images/seller/nike.svg
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\seller\nike.svg
+Content Type: image/svg+xml
+
+Uri: https://techzaa.in/larkon/admin/assets/images/seller/rolex.svg
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\seller\rolex.svg
+Content Type: image/svg+xml
+
+Uri: https://techzaa.in/larkon/admin/assets/images/seller/thenorthface.svg
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\seller\thenorthface.svg
+Content Type: image/svg+xml
+
+Uri: https://techzaa.in/larkon/admin/assets/images/seller/zara.svg
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\seller\zara.svg
+Content Type: image/svg+xml
+
+Uri: https://techzaa.in/larkon/admin/assets/images/small/img-1.jpg
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\small\img-1.jpg
 Content Type: image/jpeg
 
-Uri: https://rainbowit.net/html/nuron/assets/images/upload-variants/single.jpg
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\images\upload-variants\single.jpg
+Uri: https://techzaa.in/larkon/admin/assets/images/small/img-10.jpg
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\small\img-10.jpg
 Content Type: image/jpeg
 
-Uri: https://rainbowit.net/html/nuron/assets/js/main.js
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\js\main.js
-Content Type: application/javascript
+Uri: https://techzaa.in/larkon/admin/assets/images/small/img-2.jpg
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\small\img-2.jpg
+Content Type: image/jpeg
 
-Uri: https://rainbowit.net/html/nuron/assets/js/vendor/backtoTop.js
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\js\vendor\backtoTop.js
-Content Type: application/javascript
+Uri: https://techzaa.in/larkon/admin/assets/images/small/img-3.jpg
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\small\img-3.jpg
+Content Type: image/jpeg
 
-Uri: https://rainbowit.net/html/nuron/assets/js/vendor/bootstrap.min.js
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\js\vendor\bootstrap.min.js
-Content Type: application/javascript
+Uri: https://techzaa.in/larkon/admin/assets/images/small/img-4.jpg
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\small\img-4.jpg
+Content Type: image/jpeg
 
-Uri: https://rainbowit.net/html/nuron/assets/js/vendor/count-down.js
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\js\vendor\count-down.js
-Content Type: application/javascript
+Uri: https://techzaa.in/larkon/admin/assets/images/small/img-5.jpg
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\small\img-5.jpg
+Content Type: image/jpeg
 
-Uri: https://rainbowit.net/html/nuron/assets/js/vendor/feather.min.js
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\js\vendor\feather.min.js
-Content Type: application/javascript
+Uri: https://techzaa.in/larkon/admin/assets/images/small/img-6.jpg
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\small\img-6.jpg
+Content Type: image/jpeg
 
-Uri: https://rainbowit.net/html/nuron/assets/js/vendor/imageloaded.js
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\js\vendor\imageloaded.js
-Content Type: application/javascript
+Uri: https://techzaa.in/larkon/admin/assets/images/small/img-7.jpg
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\small\img-7.jpg
+Content Type: image/jpeg
 
-Uri: https://rainbowit.net/html/nuron/assets/js/vendor/isotop.js
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\js\vendor\isotop.js
-Content Type: application/javascript
+Uri: https://techzaa.in/larkon/admin/assets/images/small/img-8.jpg
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\small\img-8.jpg
+Content Type: image/jpeg
 
-Uri: https://rainbowit.net/html/nuron/assets/js/vendor/jquery-appear.js
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\js\vendor\jquery-appear.js
-Content Type: application/javascript
+Uri: https://techzaa.in/larkon/admin/assets/images/small/img-9.jpg
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\small\img-9.jpg
+Content Type: image/jpeg
 
-Uri: https://rainbowit.net/html/nuron/assets/js/vendor/jquery-ui.js
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\js\vendor\jquery-ui.js
-Content Type: application/javascript
+Uri: https://techzaa.in/larkon/admin/assets/images/user-profile.png
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\user-profile.png
+Content Type: image/png
 
-Uri: https://rainbowit.net/html/nuron/assets/js/vendor/jquery.custom-file-input.js
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\js\vendor\jquery.custom-file-input.js
-Content Type: application/javascript
+Uri: https://techzaa.in/larkon/admin/assets/images/users/avatar-1.jpg
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\users\avatar-1.jpg
+Content Type: image/jpeg
 
-Uri: https://rainbowit.net/html/nuron/assets/js/vendor/jquery.js
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\js\vendor\jquery.js
-Content Type: application/javascript
+Uri: https://techzaa.in/larkon/admin/assets/images/users/avatar-10.jpg
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\users\avatar-10.jpg
+Content Type: image/jpeg
 
-Uri: https://rainbowit.net/html/nuron/assets/js/vendor/jquery.nice-select.min.js
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\js\vendor\jquery.nice-select.min.js
-Content Type: application/javascript
+Uri: https://techzaa.in/larkon/admin/assets/images/users/avatar-11.jpg
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\users\avatar-11.jpg
+Content Type: image/jpeg
 
-Uri: https://rainbowit.net/html/nuron/assets/js/vendor/jquery.style.swicher.js
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\js\vendor\jquery.style.swicher.js
-Content Type: application/javascript
+Uri: https://techzaa.in/larkon/admin/assets/images/users/avatar-12.jpg
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\users\avatar-12.jpg
+Content Type: image/jpeg
 
-Uri: https://rainbowit.net/html/nuron/assets/js/vendor/js.cookie.js
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\js\vendor\js.cookie.js
-Content Type: application/javascript
+Uri: https://techzaa.in/larkon/admin/assets/images/users/avatar-2.jpg
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\users\avatar-2.jpg
+Content Type: image/jpeg
 
-Uri: https://rainbowit.net/html/nuron/assets/js/vendor/maralis.js
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\js\vendor\maralis.js
-Content Type: application/javascript
+Uri: https://techzaa.in/larkon/admin/assets/images/users/avatar-3.jpg
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\users\avatar-3.jpg
+Content Type: image/jpeg
 
-Uri: https://rainbowit.net/html/nuron/assets/js/vendor/modernizer.min.js
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\js\vendor\modernizer.min.js
-Content Type: application/javascript
+Uri: https://techzaa.in/larkon/admin/assets/images/users/avatar-4.jpg
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\users\avatar-4.jpg
+Content Type: image/jpeg
 
-Uri: https://rainbowit.net/html/nuron/assets/js/vendor/nft.js
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\js\vendor\nft.js
-Content Type: application/javascript
+Uri: https://techzaa.in/larkon/admin/assets/images/users/avatar-5.jpg
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\users\avatar-5.jpg
+Content Type: image/jpeg
 
-Uri: https://rainbowit.net/html/nuron/assets/js/vendor/odometer.js
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\js\vendor\odometer.js
-Content Type: application/javascript
+Uri: https://techzaa.in/larkon/admin/assets/images/users/avatar-6.jpg
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\users\avatar-6.jpg
+Content Type: image/jpeg
 
-Uri: https://rainbowit.net/html/nuron/assets/js/vendor/particles.js
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\js\vendor\particles.js
-Content Type: application/javascript
+Uri: https://techzaa.in/larkon/admin/assets/images/users/avatar-7.jpg
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\users\avatar-7.jpg
+Content Type: image/jpeg
 
-Uri: https://rainbowit.net/html/nuron/assets/js/vendor/sal.min.js
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\js\vendor\sal.min.js
-Content Type: application/javascript
+Uri: https://techzaa.in/larkon/admin/assets/images/users/avatar-8.jpg
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\users\avatar-8.jpg
+Content Type: image/jpeg
 
-Uri: https://rainbowit.net/html/nuron/assets/js/vendor/savePopup.js
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\js\vendor\savePopup.js
-Content Type: application/javascript
+Uri: https://techzaa.in/larkon/admin/assets/images/users/avatar-9.jpg
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\users\avatar-9.jpg
+Content Type: image/jpeg
 
-Uri: https://rainbowit.net/html/nuron/assets/js/vendor/scrolltrigger.js
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\js\vendor\scrolltrigger.js
-Content Type: application/javascript
+Uri: https://techzaa.in/larkon/admin/assets/images/users/chat.jpg
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\users\chat.jpg
+Content Type: image/jpeg
 
-Uri: https://rainbowit.net/html/nuron/assets/js/vendor/slick.min.js
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\js\vendor\slick.min.js
-Content Type: application/javascript
+Uri: https://techzaa.in/larkon/admin/assets/images/users/dummy-avatar.jpg
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\images\users\dummy-avatar.jpg
+Content Type: image/jpeg
 
-Uri: https://rainbowit.net/html/nuron/assets/js/vendor/vanilla.tilt.js
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\js\vendor\vanilla.tilt.js
-Content Type: application/javascript
+Uri: https://techzaa.in/larkon/admin/assets/js/app.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\app.js
+Content Type: text/javascript
 
-Uri: https://rainbowit.net/html/nuron/assets/js/vendor/web3.min.js
-File Name: D:\start-up\rainbowit.net\html\nuron\assets\js\vendor\web3.min.js
-Content Type: application/javascript
+Uri: https://techzaa.in/larkon/admin/assets/js/components/apexchart-area.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\components\apexchart-area.js
+Content Type: text/javascript
 
-Uri: https://rainbowit.net/html/nuron/author.html
-File Name: D:\start-up\rainbowit.net\html\nuron\author.html
+Uri: https://techzaa.in/larkon/admin/assets/js/components/apexchart-bar.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\components\apexchart-bar.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/components/apexchart-boxplot.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\components\apexchart-boxplot.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/components/apexchart-bubble.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\components\apexchart-bubble.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/components/apexchart-candlestick.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\components\apexchart-candlestick.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/components/apexchart-column.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\components\apexchart-column.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/components/apexchart-heatmap.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\components\apexchart-heatmap.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/components/apexchart-line.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\components\apexchart-line.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/components/apexchart-mixed.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\components\apexchart-mixed.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/components/apexchart-pie.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\components\apexchart-pie.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/components/apexchart-polar-area.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\components\apexchart-polar-area.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/components/apexchart-radar.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\components\apexchart-radar.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/components/apexchart-radialbar.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\components\apexchart-radialbar.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/components/apexchart-scatter.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\components\apexchart-scatter.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/components/apexchart-timeline.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\components\apexchart-timeline.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/components/apexchart-treemap.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\components\apexchart-treemap.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/components/extended-rating.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\components\extended-rating.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/components/extended-sweetalert.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\components\extended-sweetalert.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/components/form-clipboard.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\components\form-clipboard.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/components/form-flatepicker.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\components\form-flatepicker.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/components/form-quilljs.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\components\form-quilljs.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/components/form-slider.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\components\form-slider.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/components/maps-canada.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\components\maps-canada.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/components/maps-google.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\components\maps-google.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/components/maps-iraq.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\components\maps-iraq.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/components/maps-russia.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\components\maps-russia.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/components/maps-spain.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\components\maps-spain.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/components/maps-us-aea-en.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\components\maps-us-aea-en.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/components/maps-us-lcc-en.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\components\maps-us-lcc-en.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/components/maps-us-mill-en.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\components\maps-us-mill-en.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/components/maps-vector.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\components\maps-vector.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/components/table-gridjs.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\components\table-gridjs.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/config.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\config.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/pages/app-calendar.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\pages\app-calendar.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/pages/app-chat.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\pages\app-chat.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/pages/app-email.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\pages\app-email.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/pages/coming-soon.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\pages\coming-soon.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/pages/coupons-add.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\pages\coupons-add.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/pages/customer-details.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\pages\customer-details.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/pages/dashboard.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\pages\dashboard.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/pages/invoice-add.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\pages\invoice-add.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/pages/order-cart.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\pages\order-cart.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/pages/product-details.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\pages\product-details.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/pages/product-grid.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\pages\product-grid.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/pages/seller-add.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\pages\seller-add.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/pages/seller-detail.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\pages\seller-detail.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/pages/widgets.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\pages\widgets.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/js/vendor.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\js\vendor.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/vendor/fullcalendar/main.min.css
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\vendor\fullcalendar\main.min.css
+Content Type: text/css
+
+Uri: https://techzaa.in/larkon/admin/assets/vendor/fullcalendar/main.min.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\vendor\fullcalendar\main.min.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/vendor/gmaps/gmaps.min.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\vendor\gmaps\gmaps.min.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/vendor/gridjs/gridjs.umd.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\vendor\gridjs\gridjs.umd.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/vendor/gridjs/theme/mermaid.min.css
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\vendor\gridjs\theme\mermaid.min.css
+Content Type: text/css
+
+Uri: https://techzaa.in/larkon/admin/assets/vendor/jsvectormap/js/jsvectormap.min.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\vendor\jsvectormap\js\jsvectormap.min.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/vendor/jsvectormap/maps/world-merc.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\vendor\jsvectormap\maps\world-merc.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/assets/vendor/jsvectormap/maps/world.js
+File Name: D:\start-up\techzaa.in\larkon\admin\assets\vendor\jsvectormap\maps\world.js
+Content Type: text/javascript
+
+Uri: https://techzaa.in/larkon/admin/attributes-add.html
+File Name: D:\start-up\techzaa.in\larkon\admin\attributes-add.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/blog-col-three.html
-File Name: D:\start-up\rainbowit.net\html\nuron\blog-col-three.html
+Uri: https://techzaa.in/larkon/admin/attributes-edit.html
+File Name: D:\start-up\techzaa.in\larkon\admin\attributes-edit.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/blog-col-two.html
-File Name: D:\start-up\rainbowit.net\html\nuron\blog-col-two.html
+Uri: https://techzaa.in/larkon/admin/attributes-list.html
+File Name: D:\start-up\techzaa.in\larkon\admin\attributes-list.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/blog-details.html
-File Name: D:\start-up\rainbowit.net\html\nuron\blog-details.html
+Uri: https://techzaa.in/larkon/admin/auth-lock-screen.html
+File Name: D:\start-up\techzaa.in\larkon\admin\auth-lock-screen.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/blog-single-col.html
-File Name: D:\start-up\rainbowit.net\html\nuron\blog-single-col.html
+Uri: https://techzaa.in/larkon/admin/auth-password.html
+File Name: D:\start-up\techzaa.in\larkon\admin\auth-password.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/blog.html
-File Name: D:\start-up\rainbowit.net\html\nuron\blog.html
+Uri: https://techzaa.in/larkon/admin/auth-signin.html
+File Name: D:\start-up\techzaa.in\larkon\admin\auth-signin.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/collection.html
-File Name: D:\start-up\rainbowit.net\html\nuron\collection.html
+Uri: https://techzaa.in/larkon/admin/auth-signup.html
+File Name: D:\start-up\techzaa.in\larkon\admin\auth-signup.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/coming-soon.html
-File Name: D:\start-up\rainbowit.net\html\nuron\coming-soon.html
+Uri: https://techzaa.in/larkon/admin/category-add.html
+File Name: D:\start-up\techzaa.in\larkon\admin\category-add.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/connect.html
-File Name: D:\start-up\rainbowit.net\html\nuron\connect.html
+Uri: https://techzaa.in/larkon/admin/category-edit.html
+File Name: D:\start-up\techzaa.in\larkon\admin\category-edit.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/contact.html
-File Name: D:\start-up\rainbowit.net\html\nuron\contact.html
+Uri: https://techzaa.in/larkon/admin/category-list.html
+File Name: D:\start-up\techzaa.in\larkon\admin\category-list.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/create-collection.html
-File Name: D:\start-up\rainbowit.net\html\nuron\create-collection.html
+Uri: https://techzaa.in/larkon/admin/charts-apex-area.html
+File Name: D:\start-up\techzaa.in\larkon\admin\charts-apex-area.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/create.html
-File Name: D:\start-up\rainbowit.net\html\nuron\create.html
+Uri: https://techzaa.in/larkon/admin/charts-apex-bar.html
+File Name: D:\start-up\techzaa.in\larkon\admin\charts-apex-bar.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/creator.html
-File Name: D:\start-up\rainbowit.net\html\nuron\creator.html
+Uri: https://techzaa.in/larkon/admin/charts-apex-boxplot.html
+File Name: D:\start-up\techzaa.in\larkon\admin\charts-apex-boxplot.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/edit-profile.html
-File Name: D:\start-up\rainbowit.net\html\nuron\edit-profile.html
+Uri: https://techzaa.in/larkon/admin/charts-apex-bubble.html
+File Name: D:\start-up\techzaa.in\larkon\admin\charts-apex-bubble.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/explore-eight.html
-File Name: D:\start-up\rainbowit.net\html\nuron\explore-eight.html
+Uri: https://techzaa.in/larkon/admin/charts-apex-candlestick.html
+File Name: D:\start-up\techzaa.in\larkon\admin\charts-apex-candlestick.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/explore-five.html
-File Name: D:\start-up\rainbowit.net\html\nuron\explore-five.html
+Uri: https://techzaa.in/larkon/admin/charts-apex-column.html
+File Name: D:\start-up\techzaa.in\larkon\admin\charts-apex-column.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/explore-four.html
-File Name: D:\start-up\rainbowit.net\html\nuron\explore-four.html
+Uri: https://techzaa.in/larkon/admin/charts-apex-heatmap.html
+File Name: D:\start-up\techzaa.in\larkon\admin\charts-apex-heatmap.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/explore-left-filter.html
-File Name: D:\start-up\rainbowit.net\html\nuron\explore-left-filter.html
+Uri: https://techzaa.in/larkon/admin/charts-apex-line.html
+File Name: D:\start-up\techzaa.in\larkon\admin\charts-apex-line.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/explore-list-column-two.html
-File Name: D:\start-up\rainbowit.net\html\nuron\explore-list-column-two.html
+Uri: https://techzaa.in/larkon/admin/charts-apex-mixed.html
+File Name: D:\start-up\techzaa.in\larkon\admin\charts-apex-mixed.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/explore-list-style.html
-File Name: D:\start-up\rainbowit.net\html\nuron\explore-list-style.html
+Uri: https://techzaa.in/larkon/admin/charts-apex-pie.html
+File Name: D:\start-up\techzaa.in\larkon\admin\charts-apex-pie.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/explore-live-three.html
-File Name: D:\start-up\rainbowit.net\html\nuron\explore-live-three.html
+Uri: https://techzaa.in/larkon/admin/charts-apex-polar-area.html
+File Name: D:\start-up\techzaa.in\larkon\admin\charts-apex-polar-area.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/explore-live-two.html
-File Name: D:\start-up\rainbowit.net\html\nuron\explore-live-two.html
+Uri: https://techzaa.in/larkon/admin/charts-apex-radar.html
+File Name: D:\start-up\techzaa.in\larkon\admin\charts-apex-radar.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/explore-live.html
-File Name: D:\start-up\rainbowit.net\html\nuron\explore-live.html
+Uri: https://techzaa.in/larkon/admin/charts-apex-radialbar.html
+File Name: D:\start-up\techzaa.in\larkon\admin\charts-apex-radialbar.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/explore-one.html
-File Name: D:\start-up\rainbowit.net\html\nuron\explore-one.html
+Uri: https://techzaa.in/larkon/admin/charts-apex-scatter.html
+File Name: D:\start-up\techzaa.in\larkon\admin\charts-apex-scatter.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/explore-seven.html
-File Name: D:\start-up\rainbowit.net\html\nuron\explore-seven.html
+Uri: https://techzaa.in/larkon/admin/charts-apex-timeline.html
+File Name: D:\start-up\techzaa.in\larkon\admin\charts-apex-timeline.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/explore-six.html
-File Name: D:\start-up\rainbowit.net\html\nuron\explore-six.html
+Uri: https://techzaa.in/larkon/admin/charts-apex-treemap.html
+File Name: D:\start-up\techzaa.in\larkon\admin\charts-apex-treemap.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/explore-three.html
-File Name: D:\start-up\rainbowit.net\html\nuron\explore-three.html
+Uri: https://techzaa.in/larkon/admin/coupons-add.html
+File Name: D:\start-up\techzaa.in\larkon\admin\coupons-add.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/explore-two.html
-File Name: D:\start-up\rainbowit.net\html\nuron\explore-two.html
+Uri: https://techzaa.in/larkon/admin/coupons-list.html
+File Name: D:\start-up\techzaa.in\larkon\admin\coupons-list.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/forget.html
-File Name: D:\start-up\rainbowit.net\html\nuron\forget.html
+Uri: https://techzaa.in/larkon/admin/customer-detail.html
+File Name: D:\start-up\techzaa.in\larkon\admin\customer-detail.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/forum-community.html
-File Name: D:\start-up\rainbowit.net\html\nuron\forum-community.html
+Uri: https://techzaa.in/larkon/admin/customer-list.html
+File Name: D:\start-up\techzaa.in\larkon\admin\customer-list.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/forum-details.html
-File Name: D:\start-up\rainbowit.net\html\nuron\forum-details.html
+Uri: https://techzaa.in/larkon/admin/extended-ratings.html
+File Name: D:\start-up\techzaa.in\larkon\admin\extended-ratings.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/index-eight.html
-File Name: D:\start-up\rainbowit.net\html\nuron\index-eight.html
+Uri: https://techzaa.in/larkon/admin/extended-scrollbar.html
+File Name: D:\start-up\techzaa.in\larkon\admin\extended-scrollbar.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/index-eighteen.html
-File Name: D:\start-up\rainbowit.net\html\nuron\index-eighteen.html
+Uri: https://techzaa.in/larkon/admin/extended-sweetalert.html
+File Name: D:\start-up\techzaa.in\larkon\admin\extended-sweetalert.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/index-eleven.html
-File Name: D:\start-up\rainbowit.net\html\nuron\index-eleven.html
+Uri: https://techzaa.in/larkon/admin/extended-swiper-silder.html
+File Name: D:\start-up\techzaa.in\larkon\admin\extended-swiper-silder.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/index-fifteen.html
-File Name: D:\start-up\rainbowit.net\html\nuron\index-fifteen.html
+Uri: https://techzaa.in/larkon/admin/extended-toastify.html
+File Name: D:\start-up\techzaa.in\larkon\admin\extended-toastify.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/index-five.html
-File Name: D:\start-up\rainbowit.net\html\nuron\index-five.html
+Uri: https://techzaa.in/larkon/admin/forms-basic.html
+File Name: D:\start-up\techzaa.in\larkon\admin\forms-basic.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/index-four.html
-File Name: D:\start-up\rainbowit.net\html\nuron\index-four.html
+Uri: https://techzaa.in/larkon/admin/forms-checkbox-radio.html
+File Name: D:\start-up\techzaa.in\larkon\admin\forms-checkbox-radio.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/index-fourteen.html
-File Name: D:\start-up\rainbowit.net\html\nuron\index-fourteen.html
+Uri: https://techzaa.in/larkon/admin/forms-choices.html
+File Name: D:\start-up\techzaa.in\larkon\admin\forms-choices.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/index-nine.html
-File Name: D:\start-up\rainbowit.net\html\nuron\index-nine.html
+Uri: https://techzaa.in/larkon/admin/forms-clipboard.html
+File Name: D:\start-up\techzaa.in\larkon\admin\forms-clipboard.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/index-seven.html
-File Name: D:\start-up\rainbowit.net\html\nuron\index-seven.html
+Uri: https://techzaa.in/larkon/admin/forms-editors.html
+File Name: D:\start-up\techzaa.in\larkon\admin\forms-editors.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/index-seventeen.html
-File Name: D:\start-up\rainbowit.net\html\nuron\index-seventeen.html
+Uri: https://techzaa.in/larkon/admin/forms-fileuploads.html
+File Name: D:\start-up\techzaa.in\larkon\admin\forms-fileuploads.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/index-six.html
-File Name: D:\start-up\rainbowit.net\html\nuron\index-six.html
+Uri: https://techzaa.in/larkon/admin/forms-flatepicker.html
+File Name: D:\start-up\techzaa.in\larkon\admin\forms-flatepicker.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/index-sixteen.html
-File Name: D:\start-up\rainbowit.net\html\nuron\index-sixteen.html
+Uri: https://techzaa.in/larkon/admin/forms-input-mask.html
+File Name: D:\start-up\techzaa.in\larkon\admin\forms-input-mask.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/index-ten.html
-File Name: D:\start-up\rainbowit.net\html\nuron\index-ten.html
+Uri: https://techzaa.in/larkon/admin/forms-range-slider.html
+File Name: D:\start-up\techzaa.in\larkon\admin\forms-range-slider.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/index-thirteen.html
-File Name: D:\start-up\rainbowit.net\html\nuron\index-thirteen.html
+Uri: https://techzaa.in/larkon/admin/forms-validation.html
+File Name: D:\start-up\techzaa.in\larkon\admin\forms-validation.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/index-three.html
-File Name: D:\start-up\rainbowit.net\html\nuron\index-three.html
+Uri: https://techzaa.in/larkon/admin/forms-wizard.html
+File Name: D:\start-up\techzaa.in\larkon\admin\forms-wizard.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/index-twelve.html
-File Name: D:\start-up\rainbowit.net\html\nuron\index-twelve.html
+Uri: https://techzaa.in/larkon/admin/help-center.html
+File Name: D:\start-up\techzaa.in\larkon\admin\help-center.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/index-two.html
-File Name: D:\start-up\rainbowit.net\html\nuron\index-two.html
+Uri: https://techzaa.in/larkon/admin/icons-boxicons.html
+File Name: D:\start-up\techzaa.in\larkon\admin\icons-boxicons.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/index.html
-File Name: D:\start-up\rainbowit.net\html\nuron\index.html
+Uri: https://techzaa.in/larkon/admin/icons-solar.html
+File Name: D:\start-up\techzaa.in\larkon\admin\icons-solar.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/login.html
-File Name: D:\start-up\rainbowit.net\html\nuron\login.html
+Uri: https://techzaa.in/larkon/admin/index.html
+File Name: D:\start-up\techzaa.in\larkon\admin\index.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/maintenance.html
-File Name: D:\start-up\rainbowit.net\html\nuron\maintenance.html
+Uri: https://techzaa.in/larkon/admin/inventory-received-orders.html
+File Name: D:\start-up\techzaa.in\larkon\admin\inventory-received-orders.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/newsletter.html
-File Name: D:\start-up\rainbowit.net\html\nuron\newsletter.html
+Uri: https://techzaa.in/larkon/admin/inventory-warehouse.html
+File Name: D:\start-up\techzaa.in\larkon\admin\inventory-warehouse.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/privacy-policy.html
-File Name: D:\start-up\rainbowit.net\html\nuron\privacy-policy.html
+Uri: https://techzaa.in/larkon/admin/invoice-add.html
+File Name: D:\start-up\techzaa.in\larkon\admin\invoice-add.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/product-details.html
-File Name: D:\start-up\rainbowit.net\html\nuron\product-details.html
+Uri: https://techzaa.in/larkon/admin/invoice-details.html
+File Name: D:\start-up\techzaa.in\larkon\admin\invoice-details.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/product.html
-File Name: D:\start-up\rainbowit.net\html\nuron\product.html
+Uri: https://techzaa.in/larkon/admin/invoice-list.html
+File Name: D:\start-up\techzaa.in\larkon\admin\invoice-list.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/ranking.html
-File Name: D:\start-up\rainbowit.net\html\nuron\ranking.html
+Uri: https://techzaa.in/larkon/admin/maps-google.html
+File Name: D:\start-up\techzaa.in\larkon\admin\maps-google.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/sign-up.html
-File Name: D:\start-up\rainbowit.net\html\nuron\sign-up.html
+Uri: https://techzaa.in/larkon/admin/maps-vector.html
+File Name: D:\start-up\techzaa.in\larkon\admin\maps-vector.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/support.html
-File Name: D:\start-up\rainbowit.net\html\nuron\support.html
+Uri: https://techzaa.in/larkon/admin/order-cart.html
+File Name: D:\start-up\techzaa.in\larkon\admin\order-cart.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/terms-condition.html
-File Name: D:\start-up\rainbowit.net\html\nuron\terms-condition.html
+Uri: https://techzaa.in/larkon/admin/order-checkout.html
+File Name: D:\start-up\techzaa.in\larkon\admin\order-checkout.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/upcoming_projects.html
-File Name: D:\start-up\rainbowit.net\html\nuron\upcoming_projects.html
+Uri: https://techzaa.in/larkon/admin/order-detail.html
+File Name: D:\start-up\techzaa.in\larkon\admin\order-detail.html
 Content Type: text/html
 
-Uri: https://rainbowit.net/html/nuron/upload-variants.html
-File Name: D:\start-up\rainbowit.net\html\nuron\upload-variants.html
+Uri: https://techzaa.in/larkon/admin/orders-list.html
+File Name: D:\start-up\techzaa.in\larkon\admin\orders-list.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/pages-404-alt.html
+File Name: D:\start-up\techzaa.in\larkon\admin\pages-404-alt.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/pages-404.html
+File Name: D:\start-up\techzaa.in\larkon\admin\pages-404.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/pages-comingsoon.html
+File Name: D:\start-up\techzaa.in\larkon\admin\pages-comingsoon.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/pages-faqs.html
+File Name: D:\start-up\techzaa.in\larkon\admin\pages-faqs.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/pages-maintenance.html
+File Name: D:\start-up\techzaa.in\larkon\admin\pages-maintenance.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/pages-permissions.html
+File Name: D:\start-up\techzaa.in\larkon\admin\pages-permissions.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/pages-pricing.html
+File Name: D:\start-up\techzaa.in\larkon\admin\pages-pricing.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/pages-profile.html
+File Name: D:\start-up\techzaa.in\larkon\admin\pages-profile.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/pages-review.html
+File Name: D:\start-up\techzaa.in\larkon\admin\pages-review.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/pages-starter.html
+File Name: D:\start-up\techzaa.in\larkon\admin\pages-starter.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/pages-timeline.html
+File Name: D:\start-up\techzaa.in\larkon\admin\pages-timeline.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/privacy-policy.html
+File Name: D:\start-up\techzaa.in\larkon\admin\privacy-policy.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/product-add.html
+File Name: D:\start-up\techzaa.in\larkon\admin\product-add.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/product-details.html
+File Name: D:\start-up\techzaa.in\larkon\admin\product-details.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/product-edit.html
+File Name: D:\start-up\techzaa.in\larkon\admin\product-edit.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/product-grid.html
+File Name: D:\start-up\techzaa.in\larkon\admin\product-grid.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/product-list.html
+File Name: D:\start-up\techzaa.in\larkon\admin\product-list.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/purchase-list.html
+File Name: D:\start-up\techzaa.in\larkon\admin\purchase-list.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/purchase-order.html
+File Name: D:\start-up\techzaa.in\larkon\admin\purchase-order.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/purchase-returns.html
+File Name: D:\start-up\techzaa.in\larkon\admin\purchase-returns.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/role-add.html
+File Name: D:\start-up\techzaa.in\larkon\admin\role-add.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/role-edit.html
+File Name: D:\start-up\techzaa.in\larkon\admin\role-edit.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/role-list.html
+File Name: D:\start-up\techzaa.in\larkon\admin\role-list.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/seller-add.html
+File Name: D:\start-up\techzaa.in\larkon\admin\seller-add.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/seller-details.html
+File Name: D:\start-up\techzaa.in\larkon\admin\seller-details.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/seller-edit.html
+File Name: D:\start-up\techzaa.in\larkon\admin\seller-edit.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/seller-list.html
+File Name: D:\start-up\techzaa.in\larkon\admin\seller-list.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/settings.html
+File Name: D:\start-up\techzaa.in\larkon\admin\settings.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/tables-basic.html
+File Name: D:\start-up\techzaa.in\larkon\admin\tables-basic.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/tables-gridjs.html
+File Name: D:\start-up\techzaa.in\larkon\admin\tables-gridjs.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/ui-accordion.html
+File Name: D:\start-up\techzaa.in\larkon\admin\ui-accordion.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/ui-alerts.html
+File Name: D:\start-up\techzaa.in\larkon\admin\ui-alerts.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/ui-avatar.html
+File Name: D:\start-up\techzaa.in\larkon\admin\ui-avatar.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/ui-badge.html
+File Name: D:\start-up\techzaa.in\larkon\admin\ui-badge.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/ui-breadcrumb.html
+File Name: D:\start-up\techzaa.in\larkon\admin\ui-breadcrumb.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/ui-buttons.html
+File Name: D:\start-up\techzaa.in\larkon\admin\ui-buttons.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/ui-card.html
+File Name: D:\start-up\techzaa.in\larkon\admin\ui-card.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/ui-carousel.html
+File Name: D:\start-up\techzaa.in\larkon\admin\ui-carousel.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/ui-collapse.html
+File Name: D:\start-up\techzaa.in\larkon\admin\ui-collapse.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/ui-dropdown.html
+File Name: D:\start-up\techzaa.in\larkon\admin\ui-dropdown.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/ui-list-group.html
+File Name: D:\start-up\techzaa.in\larkon\admin\ui-list-group.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/ui-modal.html
+File Name: D:\start-up\techzaa.in\larkon\admin\ui-modal.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/ui-offcanvas.html
+File Name: D:\start-up\techzaa.in\larkon\admin\ui-offcanvas.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/ui-pagination.html
+File Name: D:\start-up\techzaa.in\larkon\admin\ui-pagination.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/ui-placeholders.html
+File Name: D:\start-up\techzaa.in\larkon\admin\ui-placeholders.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/ui-popovers.html
+File Name: D:\start-up\techzaa.in\larkon\admin\ui-popovers.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/ui-progress.html
+File Name: D:\start-up\techzaa.in\larkon\admin\ui-progress.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/ui-scrollspy.html
+File Name: D:\start-up\techzaa.in\larkon\admin\ui-scrollspy.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/ui-spinners.html
+File Name: D:\start-up\techzaa.in\larkon\admin\ui-spinners.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/ui-tabs.html
+File Name: D:\start-up\techzaa.in\larkon\admin\ui-tabs.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/ui-toasts.html
+File Name: D:\start-up\techzaa.in\larkon\admin\ui-toasts.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/ui-tooltips.html
+File Name: D:\start-up\techzaa.in\larkon\admin\ui-tooltips.html
+Content Type: text/html
+
+Uri: https://techzaa.in/larkon/admin/widgets.html
+File Name: D:\start-up\techzaa.in\larkon\admin\widgets.html
 Content Type: text/html
 

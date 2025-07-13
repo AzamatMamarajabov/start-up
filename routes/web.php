@@ -5,6 +5,8 @@ use Livewire\Volt\Volt;
 use App\Http\Controllers\Front\HomeController;
 use App\Http\Controllers\Front\AuthController;
 use App\Http\Controllers\Front\ProfileController; 
+use App\Http\Controllers\Admin\AdminAuthController;
+use App\Http\Controllers\Admin\CustomersController;
 
 Route::get('/', [HomeController::class, 'index'])->name('home');
 Route::get('/profile', [HomeController::class, 'profile'])->middleware('auth')->name('profile');
@@ -30,6 +32,21 @@ Route::middleware(['auth'])->group(function () {
     Route::post('/profile/update-password', [ProfileController::class, 'updatePassword'])->name('profile.updatePassword');
 
 });
+
+
+
+
+Route::get('/admin/login', [AdminAuthController::class, 'showLoginForm'])->name('admin.login');
+Route::post('/admin/login', [AdminAuthController::class, 'login'])->name('admin.login.submit');
+
+Route::middleware('admin')->group(function () {
+    Route::get('/admin/dashboard', [AdminAuthController::class, 'dashboard'])->name('admin.dashboard');
+    Route::get('/admin/profile', [AdminAuthController::class, 'profile'])->name('admin.profile');
+    Route::post('/admin/logout', [AdminAuthController::class, 'logout'])->name('admin.logout');
+
+    Route::get('/admin/customer', [CustomersController::class, 'index'])->name('customer.index');
+});
+
 
 // Route::get('profile', function () {
 //     return view('profile', ['user' => auth()->user()]);
