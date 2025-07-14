@@ -4,16 +4,16 @@
             <div class="container">
                 <div class="row">
                     <ul class="nu-brand-area">
-                        <li><img src="assets/images/brand/brand-01.png" alt="nuron-brand_nft"></li>
+                        <li><img src="{{ asset('assets/images/brand/brand-01.png') }}" alt="nuron-brand_nft"></li>
 
-                        <li><img src="assets/images/brand/brand-03.png" alt="nuron-brand_nft"></li>
-                        <li><img src="assets/images/brand/brand-06.png" alt="nuron-brand_nft"></li>
-                        <li><img src="assets/images/brand/brand-07.png" alt="nuron-brand_nft"></li>
-                        <li><img src="assets/images/brand/brand-04.png" alt="nuron-brand_nft"></li>
-                        <li><img src="assets/images/brand/brand-02.png" alt="nuron-brand_nft"></li>
-                        <li><img src="assets/images/brand/brand-01.png" alt="nuron-brand_nft"></li>
+                        <li><img src="{{ asset('assets/images/brand/brand-03.png') }}" alt="nuron-brand_nft"></li>
+                        <li><img src="{{ asset('assets/images/brand/brand-06.png') }}" alt="nuron-brand_nft"></li>
+                        <li><img src="{{ asset('assets/images/brand/brand-07.png') }}" alt="nuron-brand_nft"></li>
+                        <li><img src="{{ asset('assets/images/brand/brand-04.png') }}" alt="nuron-brand_nft"></li>
+                        <li><img src="{{ asset('assets/images/brand/brand-02.png') }}" alt="nuron-brand_nft"></li>
+                        <li><img src="{{ asset('assets/images/brand/brand-01.png') }}" alt="nuron-brand_nft"></li>
 
-                        <li><img src="assets/images/brand/brand-03.png" alt="nuron-brand_nft"></li>
+                        <li><img src="{{ asset('assets/images/brand/brand-03.png') }}" alt="nuron-brand_nft"></li>
                     </ul>
                 </div>
             </div>
@@ -24,8 +24,8 @@
                     <div class="widget-content-wrapper">
                         <div class="footer-left">
                             <div class="logo-thumbnail logo-custom-css">
-                                <a class="logo-light" href="{{ route('home') }}"><img src="assets/images/logo/logo-white.png" alt="nft-logo"></a>
-                                <a class="logo-dark" href="{{ route('home') }}"><img src="assets/images/logo/logo-dark.png" alt="nft-logo"></a>
+                                <a class="logo-light" href="{{ route('home') }}"><img src="{{ asset('assets/images/logo/logo-white.png') }}" alt="nft-logo"></a>
+                                <a class="logo-dark" href="{{ route('home') }}"><img src="{{ asset('assets/images/logo/logo-dark.png') }}" alt="nft-logo"></a>
                             </div>
                             <p class="rn-footer-describe">
                                 Created with the collaboration of over 60 of the world's best Nuron Artists.
@@ -83,7 +83,7 @@
                             <li class="recent-post">
                                 <div class="thumbnail">
                                     <a href="{{ route('home') }}">
-                                        <img src="assets/images/portfolio/portfolio-01.jpg" alt="Product Images">
+                                        <img src="{{ asset('assets/images/portfolio/portfolio-01.jpg') }}" alt="Product Images">
                                     </a>
                                 </div>
                                 <div class="content">
@@ -95,7 +95,7 @@
                             <li class="recent-post">
                                 <div class="thumbnail">
                                     <a href="{{ route('home') }}">
-                                        <img src="assets/images/portfolio/portfolio-02.jpg" alt="Product Images">
+                                        <img src="{{ asset('assets/images/portfolio/portfolio-02.jpg') }}" alt="Product Images">
                                     </a>
                                 </div>
                                 <div class="content">
@@ -107,7 +107,7 @@
                             <li class="recent-post">
                                 <div class="thumbnail">
                                     <a href="{{ route('home') }}">
-                                        <img src="assets/images/portfolio/portfolio-03.jpg" alt="Product Images">
+                                        <img src="{{ asset('assets/images/portfolio/portfolio-03.jpg') }}" alt="Product Images">
                                     </a>
                                 </div>
                                 <div class="content">

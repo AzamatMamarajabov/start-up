@@ -3,8 +3,8 @@
         <div class="header-inner">
             <div class="header-left">
                 <div class="logo-thumbnail logo-custom-css">
-                    <a class="logo-light" href="{{ route('home') }}"><img src="assets/images/logo/logo-white.png" alt="nft-logo"></a>
-                    <a class="logo-dark" href="{{ route('home') }}"><img src="assets/images/logo/logo-dark.png" alt="nft-logo"></a>
+                    <a class="logo-light" href="{{ route('home') }}"><img src="{{ asset('assets/images/logo/logo-white.png') }}" alt="nft-logo"></a>
+                    <a class="logo-dark" href="{{ route('home') }}"><img src="{{ asset('assets/images/logo/logo-dark.png') }}" alt="nft-logo"></a>
                 </div>
                 <div class="mainmenu-wrapper">
                     <nav id="sideNav" class="mainmenu-nav d-none d-xl-block">
@@ -99,12 +99,12 @@
                     <ul>
                         <li>
                             <a href="javascript: void(0);" data-theme="light" class="setColor light">
-                                <img class="sun-image" src="assets/images/icons/sun-01.svg" alt="Sun images">
+                                <img class="sun-image" src="{{ asset('assets/images/icons/sun-01.svg') }}" alt="Sun images">
                             </a>
                         </li>
                         <li>
                             <a href="javascript: void(0);" data-theme="dark" class="setColor dark">
-                                <img class="Victor Image" src="assets/images/icons/vector.svg" alt="Vector Images">
+                                <img class="Victor Image" src="{{ asset('assets/images/icons/vector.svg') }}" alt="Vector Images">
                             </a>
                         </li>
                     </ul>
@@ -120,8 +120,8 @@
     <div class="inner">
         <div class="header-top">
             <div class="logo logo-custom-css">
-                <a class="logo-light" href="{{ route('home') }}"><img src="assets/images/logo/logo-white.png" alt="nft-logo"></a>
-                <a class="logo-dark" href="{{ route('home') }}"><img src="assets/images/logo/logo-dark.png" alt="nft-logo"></a>
+                <a class="logo-light" href="{{ route('home') }}"><img src="{{ asset('assets/images/logo/logo-white.png') }}" alt="nft-logo"></a>
+                <a class="logo-dark" href="{{ route('home') }}"><img src="{{ asset('assets/images/logo/logo-dark.png') }}" alt="nft-logo"></a>
             </div>
             <div class="close-menu">
                 <button class="close-button"><i class="feather-x"></i></button>
