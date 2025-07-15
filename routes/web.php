@@ -12,6 +12,8 @@ use App\Http\Controllers\Admin\CategoryTypeController;
 use App\Http\Controllers\Admin\ProductController;
 
 Route::get('/', [HomeController::class, 'index'])->name('home');
+Route::get('/about', [HomeController::class, 'about'])->name('about');
+Route::get('/contact', [HomeController::class, 'contact'])->name('contact');
 Route::get('/profile', [HomeController::class, 'profile'])->middleware('auth')->name('profile');
 Route::get('/categories/{id}', [HomeController::class, 'show'])->name('categories.show');
 Route::get('/categories/products/{id}', [HomeController::class, 'productshow'])->name('productshow.show');

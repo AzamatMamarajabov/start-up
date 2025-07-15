@@ -19,6 +19,19 @@ class HomeController extends Controller
         return view('front.index', compact('user','categories','categorytypes'));
     }
 
+    public function about()
+    {
+
+        return view('front.about');
+    }
+
+
+    public function contact()
+    {
+
+        return view('front.contact');
+    }
+
     public function profile()
     {
         $user = Auth::user();
@@ -43,7 +56,7 @@ class HomeController extends Controller
     public function productshow($id)
     {
         $categories = Category::all();
-        $types = Category::all();
+        $types = CategoryType::all();
         $categorytypes = CategoryType::findOrFail($id);
         $products = Product::where('category_type_id', $id)->get();
 

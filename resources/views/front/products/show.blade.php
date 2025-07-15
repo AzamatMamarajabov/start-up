@@ -36,16 +36,6 @@
                     <div class="filter-select-option">
                         <label class="filter-leble">CATEGORIES</label>
                         <select>
-                            @forelse ($categories as $category)
-                            <option value="{{$category->id}}">{{$category->title_en}}</option>
-                            @empty
-                            <option >Error</option>
-                            @endforelse  
-                        </select>
-                    </div>
-                    <div class="filter-select-option">
-                        <label class="filter-leble">Category types</label>
-                        <select>
                             @forelse ($types as $type)
                             <option value="{{$type->id}}">{{$type->title_en}}</option>
                             @empty
@@ -53,7 +43,7 @@
                             @endforelse  
                         </select>
                     </div>
-
+                 
                     <div class="filter-select-option">
                         <label class="filter-leble">Tanlang</label>
                         <select>

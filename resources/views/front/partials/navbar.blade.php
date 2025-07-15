@@ -10,8 +10,8 @@
                     <nav id="sideNav" class="mainmenu-nav d-none d-xl-block">
                         <ul class="mainmenu">
                             <li><a href="{{ route('home') }}">Home</a></li>
-                            <li><a href="#">About</a></li>
-                            <li><a href="#">Contact</a></li>
+                            <li><a href="{{ route('about') }}">About</a></li>
+                            <li><a href="{{ route('contact') }}">Contact</a></li>
                         </ul>
                     </nav>
                 </div>

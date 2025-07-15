@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <meta name="theme-style-mode" content="1"> <!-- 0 == light, 1 == dark -->
-
+    
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="{{ asset('assets/images/favicon.png') }}">
 
@@ -59,8 +59,8 @@
     <script src="{{ asset('assets/js/vendor/vanilla.tilt.js') }}"></script>
 
     <!-- main JS -->
-    <script src="{{ asset('assets/js/main.js') }}"></script>
 
+    
     <!-- Meta Mask -->
     <script src="{{ asset('assets/js/vendor/web3.min.js') }}"></script>
     <script src="{{ asset('assets/js/vendor/maralis.js') }}"></script>
