@@ -59,8 +59,7 @@
     <script src="{{ asset('assets/js/vendor/vanilla.tilt.js') }}"></script>
 
     <!-- main JS -->
-
-    
+    <script src="{{ asset('assets/js/main.js') }}"></script>
     <!-- Meta Mask -->
     <script src="{{ asset('assets/js/vendor/web3.min.js') }}"></script>
     <script src="{{ asset('assets/js/vendor/maralis.js') }}"></script>

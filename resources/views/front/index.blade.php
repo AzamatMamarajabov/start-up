@@ -11,7 +11,7 @@
                     <div class="banner-xii-wrapper">
                         <div class="banner-content-wrapper">
                             <p class="pre-title">Khalimov start-up</p>
-                            <h1 class="title">Suxrob Khalimov start-up project</h1>
+                            <h1 class="title">Khalimov start-up project </h1>
                             <p class="post-title">Unit of data stored on a digital ledger, called a blockchain, that certifies
                                 a digital asset to be unique and therefore not interchangeable</p>
                             <a class="btn btn-primary btn-large" href="#">Explore</a>
